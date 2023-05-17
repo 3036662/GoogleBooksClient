@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoogleBooksClient</string>
+    <string name="appNameScaffold">Google books client</string>
+    <string name="authorization_error">Error while authorization</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+    <string name="logout_button">Logout</string>
+    <string name="search_for_book_placeholder">Search for books</string>
+    <string name="search_button_text">Search</string>
+</resources>
